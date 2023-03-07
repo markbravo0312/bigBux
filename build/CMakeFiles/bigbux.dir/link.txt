@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/bigbux.dir/bigbux.cpp.o -o bigbux 
